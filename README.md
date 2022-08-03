@@ -1,2 +1,2 @@
 # projeto-calculadora-melhorado
-Calculadora funcional feita com Javascript.
+Uma nova calculadora melhorada usando JS.
